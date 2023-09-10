@@ -3,6 +3,8 @@
 
 <br>
 
+![Typescript Cheat Sheet](TypeScriptCheatSheet.jpg)
+
 ![Learn JavaScript for Beginners – JS Basics Handbook](https://www.freecodecamp.org/news/content/images/size/w2000/2023/06/book-cover.jpg)     
 
 
