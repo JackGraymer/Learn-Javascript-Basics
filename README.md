@@ -1944,11 +1944,6 @@ Hello! My name is Alex and I'm 22 years old.
 <p>The program should handle scenarios where the customer's payment amount is exactly equal to the total price, as well as cases where the payment amount is greater or less than the total price.</p>
 <p>To build the program, you need to use what you've learned about objects, arrays, conditionals, and loops.</p>
 <p>I recommend that you try building the program yourself first. If you get stuck, then see the provided solution below. Good luck!</p>
-<!--kg-card-end: markdown--><!--kg-card-begin: markdown--><h2 id="conclusion">Conclusion</h2>
-<p>Congratulations on finishing this handbook! We have gone through quite a lot of concepts together to learn how to code using JavaScript.</p>
-<p>I hope you enjoyed the process as much as I enjoy writing it. I would love to get your feedback, learning what you liked and didn't so I can improve the tutorial.</p>
-<p>If you want to learn more about JavaScript, I'm creating a course that helps you use JavaScript to build web applications. It's currently in a pre-order period so you can get the course at a lower price and support my work in creating more tutorials. You can <a href="https://codewithnathan.com/js-course">check it out here</a>.</p>
-<p><a href="https://codewithnathan.com/js-course"><img src="https://www.freecodecamp.org/news/content/images/2023/07/nathan-js-tutorial.jpg" alt="The JavaScript Tutorial by Nathan Sebhastian" loading="lazy" width="1200" height="840"></a></p>
 <!--kg-card-end: markdown--><!--kg-card-begin: markdown--><h2 id="solutions">Solutions</h2>
 <h3 id="exercise1">Exercise #1</h3>
 <pre class="language-js" tabindex="0"><code class="language-js">console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">"Your name here"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
