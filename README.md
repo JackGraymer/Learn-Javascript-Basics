@@ -1,5 +1,4 @@
 # Learn-Javascript-Basics
-## by Nathan Sebhastian 
 
 <br>
 
